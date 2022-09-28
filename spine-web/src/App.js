@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import { Navbar, NavbarBrand } from 'reactstrap';
-import { PLACES } from './shared/places';
 import InfoArea from './components/infoarea';
 import logo from './sclogo.jpg';
 
@@ -11,7 +10,6 @@ class App extends React.Component {
 		super(props);
 		
 		this.state = {
-			places: PLACES
 		};
 	}
 	
