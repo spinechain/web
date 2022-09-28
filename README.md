@@ -1,2 +1,2 @@
 # spinechain_web
-Website for SpineChain
+Website for SpineChain. In ReactJS
