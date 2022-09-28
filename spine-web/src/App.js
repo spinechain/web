@@ -12,7 +12,7 @@ class App extends React.Component {
 		this.state = {
 		};
 	}
-	
+
 	render(){
 		return (
 			<div className='App'>
@@ -27,5 +27,7 @@ class App extends React.Component {
 		);
 	}
 }
+
+
 
 export default App;
