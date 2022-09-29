@@ -1,2 +1,4 @@
-# spinechain_web
-Website for SpineChain. In ReactJS
+# SpineChain Web
+
+- Install dependencies using npm install
+- Start using npm start
